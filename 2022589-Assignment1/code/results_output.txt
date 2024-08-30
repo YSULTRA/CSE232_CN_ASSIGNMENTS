@@ -1,0 +1,5 @@
+Number of intermediate hosts: 4
+Hop 1: IP = 192.168.1.1, Avg Latency = 102.06 ms
+Hop 2: IP = 10.10.0.1, Avg Latency = 104.67 ms
+Hop 3: IP = 192.178.82.235, Avg Latency = 53.11 ms
+Hop 4: IP = 142.250.193.196, Avg Latency = 47.94 ms
